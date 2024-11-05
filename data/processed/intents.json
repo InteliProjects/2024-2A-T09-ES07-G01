@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "1",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são as Instruções da CVM sobre Administradores de Carteiras?"
+  },
+  {
+    "id": "2",
+    "intent": "consulta_normativa",
+    "utterance": "Gostaria de ver as Deliberações relacionadas a Agencias de Classificação de Risco de Crédito."
+  },
+  {
+    "id": "3",
+    "intent": "consulta_normativa",
+    "utterance": "Existem Ofícios Circulares sobre Agentes Fiduciários?"
+  },
+  {
+    "id": "4",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são as Leis e Decretos que falam sobre Alerta?"
+  },
+  {
+    "id": "5",
+    "intent": "consulta_normativa",
+    "utterance": "Há alguma Nota Explicativa sobre Analistas de Valores Mobiliários?"
+  },
+  {
+    "id": "6",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são os Pareceres de Orientação sobre Assessores de Investimento?"
+  },
+  {
+    "id": "7",
+    "intent": "consulta_normativa",
+    "utterance": "Gostaria de ver as Deliberações relacionadas a Ato Declaratório."
+  },
+  {
+    "id": "8",
+    "intent": "consulta_normativa",
+    "utterance": "Existem Instruções da CVM sobre Atuação Irregular?"
+  },
+  {
+    "id": "9",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são as Decisões Conjuntas que mencionam Audiência Pública?"
+  },
+  {
+    "id": "10",
+    "intent": "consulta_normativa",
+    "utterance": "Há algum Parecer de Orientação sobre Auditor Independente?"
+  },
+  {
+    "id": "11",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são as Deliberações sobre BDR?"
+  },
+  {
+    "id": "12",
+    "intent": "consulta_normativa",
+    "utterance": "Gostaria de ver as Instruções da CVM sobre Cadastro de Participantes Regulados."
+  },
+  {
+    "id": "13",
+    "intent": "consulta_normativa",
+    "utterance": "Existem Ofícios Circulares sobre Clubes de Investimento?"
+  },
+  {
+    "id": "14",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são as Leis e Decretos que falam sobre Companhia?"
+  },
+  {
+    "id": "15",
+    "intent": "consulta_normativa",
+    "utterance": "Há alguma Nota Explicativa sobre Comunicado ao Mercado?"
+  },
+  {
+    "id": "16",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são os Pareceres de Orientação sobre Concurso/Prêmio?"
+  },
+  {
+    "id": "17",
+    "intent": "consulta_normativa",
+    "utterance": "Gostaria de ver as Deliberações relacionadas a Consultores de Valores Mobiliários."
+  },
+  {
+    "id": "18",
+    "intent": "consulta_normativa",
+    "utterance": "Existem Instruções da CVM sobre Convênio?"
+  },
+  {
+    "id": "19",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são as Decisões Conjuntas que mencionam Coronavirus?"
+  },
+  {
+    "id": "20",
+    "intent": "consulta_normativa",
+    "utterance": "Há algum Parecer de Orientação sobre Corretora?"
+  },
+  {
+    "id": "21",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são as Deliberações sobre Crowdfunding?"
+  },
+  {
+    "id": "22",
+    "intent": "consulta_normativa",
+    "utterance": "Gostaria de ver as Instruções da CVM sobre Decisão do Colegiado."
+  },
+  {
+    "id": "23",
+    "intent": "consulta_normativa",
+    "utterance": "Existem Ofícios Circulares sobre Deliberação?"
+  },
+  {
+    "id": "24",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são as Leis e Decretos que falam sobre Educação Financeira?"
+  },
+  {
+    "id": "25",
+    "intent": "consulta_normativa",
+    "utterance": "Há alguma Nota Explicativa sobre Evento?"
+  },
+  {
+    "id": "26",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são os Pareceres de Orientação sobre Fundos de Investimento?"
+  },
+  {
+    "id": "27",
+    "intent": "consulta_normativa",
+    "utterance": "Gostaria de ver as Deliberações relacionadas a Fundos de Investimento em Direitos Creditórios."
+  },
+  {
+    "id": "28",
+    "intent": "consulta_normativa",
+    "utterance": "Existem Instruções da CVM sobre Fundos de Investimento em Participações?"
+  },
+  {
+    "id": "29",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são as Decisões Conjuntas que mencionam Fundos de Investimento Imobiliários?"
+  },
+  {
+    "id": "30",
+    "intent": "consulta_normativa",
+    "utterance": "Há algum Parecer de Orientação sobre Gestão Institucional?"
+  },
+  {
+    "id": "31",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são as Deliberações sobre Indenização?"
+  },
+  {
+    "id": "32",
+    "intent": "consulta_normativa",
+    "utterance": "Gostaria de ver as Instruções da CVM sobre Infraestrutura do Mercado."
+  },
+  {
+    "id": "33",
+    "intent": "consulta_normativa",
+    "utterance": "Existem Ofícios Circulares sobre Insider Trading?"
+  },
+  {
+    "id": "34",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são as Leis e Decretos que falam sobre Intermediários?"
+  },
+  {
+    "id": "35",
+    "intent": "consulta_normativa",
+    "utterance": "Há alguma Nota Explicativa sobre Investidores Nao Residentes?"
+  },
+  {
+    "id": "36",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são os Pareceres de Orientação sobre Julgamento?"
+  },
+  {
+    "id": "37",
+    "intent": "consulta_normativa",
+    "utterance": "Gostaria de ver as Deliberações relacionadas a Julgamento_Insider."
+  },
+  {
+    "id": "38",
+    "intent": "consulta_normativa",
+    "utterance": "Existem Instruções da CVM sobre Mercados Organizados?"
+  },
+  {
+    "id": "39",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são as Decisões Conjuntas que mencionam Normas Contábeis?"
+  },
+  {
+    "id": "40",
+    "intent": "consulta_normativa",
+    "utterance": "Há algum Parecer de Orientação sobre Nota?"
+  },
+  {
+    "id": "41",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são as Deliberações sobre Ofertas Publicas?"
+  },
+  {
+    "id": "42",
+    "intent": "consulta_normativa",
+    "utterance": "Gostaria de ver as Instruções da CVM sobre Ofício Circular."
+  },
+  {
+    "id": "43",
+    "intent": "consulta_normativa",
+    "utterance": "Existem Ofícios Circulares sobre Ouvidoria?"
+  },
+  {
+    "id": "44",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são as Leis e Decretos que falam sobre Parecer de Orientação?"
+  },
+  {
+    "id": "45",
+    "intent": "consulta_normativa",
+    "utterance": "Há alguma Nota Explicativa sobre Pesquisa?"
+  },
+  {
+    "id": "46",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são os Pareceres de Orientação sobre Planejamento Estratégico?"
+  },
+  {
+    "id": "47",
+    "intent": "consulta_normativa",
+    "utterance": "Gostaria de ver as Deliberações relacionadas a PLD/FTP."
+  },
+  {
+    "id": "48",
+    "intent": "consulta_normativa",
+    "utterance": "Existem Instruções da CVM sobre Processo Eletrônico?"
+  },
+  {
+    "id": "49",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são as Decisões Conjuntas que mencionam Protocolo Digital?"
+  },
+  {
+    "id": "50",
+    "intent": "consulta_normativa",
+    "utterance": "Há algum Parecer de Orientação sobre Publicação?"
+  },
+  {
+    "id": "51",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são as Deliberações sobre Ritos CVM?"
+  },
+  {
+    "id": "52",
+    "intent": "consulta_normativa",
+    "utterance": "Gostaria de ver as Instruções da CVM sobre Sandbox Regulatório."
+  },
+  {
+    "id": "53",
+    "intent": "consulta_normativa",
+    "utterance": "Existem Ofícios Circulares sobre Securitizadoras?"
+  },
+  {
+    "id": "54",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são as Leis e Decretos que falam sobre Sistema de governança e gestão da CVM?"
+  },
+  {
+    "id": "55",
+    "intent": "consulta_normativa",
+    "utterance": "Há alguma Nota Explicativa sobre Suitability?"
+  },
+  {
+    "id": "56",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são os Pareceres de Orientação sobre Suspensão?"
+  },
+  {
+    "id": "57",
+    "intent": "consulta_normativa",
+    "utterance": "Gostaria de ver as Deliberações relacionadas a Tecnologia da Informação."
+  },
+  {
+    "id": "58",
+    "intent": "consulta_normativa",
+    "utterance": "Existem Instruções da CVM sobre Termo_Compromisso_Insider?"
+  },
+  {
+    "id": "59",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são as Decisões Conjuntas que mencionam Termo de Compromisso?"
+  },
+  {
+    "id": "60",
+    "intent": "consulta_normativa",
+    "utterance": "Há algum Parecer de Orientação sobre Administradores de Carteiras?"
+  },
+  {
+    "id": "61",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são as Deliberações sobre Agencias de Classificação de Risco de Crédito?"
+  },
+  {
+    "id": "62",
+    "intent": "consulta_normativa",
+    "utterance": "Gostaria de ver as Instruções da CVM sobre Agentes Fiduciários."
+  },
+  {
+    "id": "63",
+    "intent": "consulta_normativa",
+    "utterance": "Existem Ofícios Circulares sobre Alerta?"
+  },
+  {
+    "id": "64",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são as Leis e Decretos que falam sobre Analistas de Valores Mobiliários?"
+  },
+  {
+    "id": "65",
+    "intent": "consulta_normativa",
+    "utterance": "Há alguma Nota Explicativa sobre Assessores de Investimento?"
+  },
+  {
+    "id": "66",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são os Pareceres de Orientação sobre Ato Declaratório?"
+  },
+  {
+    "id": "67",
+    "intent": "consulta_normativa",
+    "utterance": "Gostaria de ver as Deliberações relacionadas a Atuação Irregular."
+  },
+  {
+    "id": "68",
+    "intent": "consulta_normativa",
+    "utterance": "Existem Instruções da CVM sobre Audiência Pública?"
+  },
+  {
+    "id": "69",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são as Decisões Conjuntas que mencionam Auditor Independente?"
+  },
+  {
+    "id": "70",
+    "intent": "consulta_normativa",
+    "utterance": "Há algum Parecer de Orientação sobre BDR?"
+  },
+  {
+    "id": "71",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são as Deliberações sobre Cadastro de Participantes Regulados?"
+  },
+  {
+    "id": "72",
+    "intent": "consulta_normativa",
+    "utterance": "Gostaria de ver as Instruções da CVM sobre Clubes de Investimento."
+  },
+  {
+    "id": "73",
+    "intent": "consulta_normativa",
+    "utterance": "Existem Ofícios Circulares sobre Companhia?"
+  },
+  {
+    "id": "74",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são as Leis e Decretos que falam sobre Comunicado ao Mercado?"
+  },
+  {
+    "id": "75",
+    "intent": "consulta_normativa",
+    "utterance": "Há alguma Nota Explicativa sobre Concurso/Prêmio?"
+  },
+  {
+    "id": "76",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são os Pareceres de Orientação sobre Consultores de Valores Mobiliários?"
+  },
+  {
+    "id": "77",
+    "intent": "consulta_normativa",
+    "utterance": "Gostaria de ver as Deliberações relacionadas a Convênio."
+  },
+  {
+    "id": "78",
+    "intent": "consulta_normativa",
+    "utterance": "Existem Instruções da CVM sobre Coronavirus?"
+  },
+  {
+    "id": "79",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são as Decisões Conjuntas que mencionam Corretora?"
+  },
+  {
+    "id": "80",
+    "intent": "consulta_normativa",
+    "utterance": "Há algum Parecer de Orientação sobre Crowdfunding?"
+  },
+  {
+    "id": "81",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são as Deliberações sobre Decisão do Colegiado?"
+  },
+  {
+    "id": "82",
+    "intent": "consulta_normativa",
+    "utterance": "Gostaria de ver as Instruções da CVM sobre Deliberação."
+  },
+  {
+    "id": "83",
+    "intent": "consulta_normativa",
+    "utterance": "Existem Ofícios Circulares sobre Educação Financeira?"
+  },
+  {
+    "id": "84",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são as Leis e Decretos que falam sobre Evento?"
+  },
+  {
+    "id": "85",
+    "intent": "consulta_normativa",
+    "utterance": "Há alguma Nota Explicativa sobre Fundos de Investimento?"
+  },
+  {
+    "id": "86",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são os Pareceres de Orientação sobre Fundos de Investimento em Direitos Creditórios?"
+  },
+  {
+    "id": "87",
+    "intent": "consulta_normativa",
+    "utterance": "Gostaria de ver as Deliberações relacionadas a Fundos de Investimento em Participações."
+  },
+  {
+    "id": "88",
+    "intent": "consulta_normativa",
+    "utterance": "Existem Instruções da CVM sobre Fundos de Investimento Imobiliários?"
+  },
+  {
+    "id": "89",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são as Decisões Conjuntas que mencionam Gestão Institucional?"
+  },
+  {
+    "id": "90",
+    "intent": "consulta_normativa",
+    "utterance": "Há algum Parecer de Orientação sobre Indenização?"
+  },
+  {
+    "id": "91",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são as Deliberações sobre Infraestrutura do Mercado?"
+  },
+  {
+    "id": "92",
+    "intent": "consulta_normativa",
+    "utterance": "Gostaria de ver as Instruções da CVM sobre Insider Trading."
+  },
+  {
+    "id": "93",
+    "intent": "consulta_normativa",
+    "utterance": "Existem Ofícios Circulares sobre Intermediários?"
+  },
+  {
+    "id": "94",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são as Leis e Decretos que falam sobre Investidores Nao Residentes?"
+  },
+  {
+    "id": "95",
+    "intent": "consulta_normativa",
+    "utterance": "Há alguma Nota Explicativa sobre Julgamento?"
+  },
+  {
+    "id": "96",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são os Pareceres de Orientação sobre Julgamento_Insider?"
+  },
+  {
+    "id": "97",
+    "intent": "consulta_normativa",
+    "utterance": "Gostaria de ver as Deliberações relacionadas a Mercados Organizados."
+  },
+  {
+    "id": "98",
+    "intent": "consulta_normativa",
+    "utterance": "Existem Instruções da CVM sobre Normas Contábeis?"
+  },
+  {
+    "id": "99",
+    "intent": "consulta_normativa",
+    "utterance": "Quais são as Decisões Conjuntas que mencionam Nota?"
+  },
+  {
+    "id": "100",
+    "intent": "consulta_normativa",
+    "utterance": "Há algum Parecer de Orientação sobre Ofertas Publicas?"
+  },
+  {
+    "id": "101",
+    "intent": "outros",
+    "utterance": "Qual é a previsão do tempo para amanhã?"
+  },
+  {
+    "id": "102",
+    "intent": "outros",
+    "utterance": "Como faço para configurar minha conta de e-mail?"
+  },
+  {
+    "id": "103",
+    "intent": "outros",
+    "utterance": "Quais são as melhores receitas de bolo de chocolate?"
+  },
+  {
+    "id": "104",
+    "intent": "outros",
+    "utterance": "Onde posso comprar ingressos para o show do próximo mês?"
+  },
+  {
+    "id": "105",
+    "intent": "outros",
+    "utterance": "Quais são os sintomas da gripe?"
+  },
+  {
+    "id": "106",
+    "intent": "outros",
+    "utterance": "Como faço para trocar o óleo do meu carro?"
+  },
+  {
+    "id": "107",
+    "intent": "outros",
+    "utterance": "Qual é a capital da Austrália?"
+  },
+  {
+    "id": "108",
+    "intent": "outros",
+    "utterance": "Como posso aprender a tocar violão online?"
+  },
+  {
+    "id": "109",
+    "intent": "outros",
+    "utterance": "Quais são as melhores práticas para jardinagem em casa?"
+  },
+  {
+    "id": "110",
+    "intent": "outros",
+    "utterance": "Onde posso encontrar um bom restaurante italiano?"
+  },
+  {
+    "id": "111",
+    "intent": "outros",
+    "utterance": "Quais são as tendências de moda para este ano?"
+  },
+  {
+    "id": "112",
+    "intent": "outros",
+    "utterance": "Como faço para instalar um software antivírus no meu computador?"
+  },
+  {
+    "id": "113",
+    "intent": "outros",
+    "utterance": "Qual é a melhor maneira de economizar energia em casa?"
+  },
+  {
+    "id": "114",
+    "intent": "outros",
+    "utterance": "Quais são os benefícios de uma dieta vegana?"
+  },
+  {
+    "id": "115",
+    "intent": "outros",
+    "utterance": "Como posso melhorar meu inglês?"
+  },
+  {
+    "id": "116",
+    "intent": "outros",
+    "utterance": "Quais são os melhores destinos turísticos na Europa?"
+  },
+  {
+    "id": "117",
+    "intent": "outros",
+    "utterance": "Onde posso comprar uma bicicleta usada?"
+  },
+  {
+    "id": "118",
+    "intent": "outros",
+    "utterance": "Como posso cuidar melhor da minha saúde mental?"
+  },
+  {
+    "id": "119",
+    "intent": "outros",
+    "utterance": "Quais são os filmes mais populares no momento?"
+  },
+  {
+    "id": "120",
+    "intent": "outros",
+    "utterance": "Como faço para preparar uma refeição saudável?"
+  },
+  {
+    "id": "121",
+    "intent": "outros",
+    "utterance": "Qual é a diferença entre Wi-Fi e internet a cabo?"
+  },
+  {
+    "id": "122",
+    "intent": "outros",
+    "utterance": "Como faço para abrir uma conta bancária?"
+  },
+  {
+    "id": "123",
+    "intent": "outros",
+    "utterance": "Quais são os principais pontos turísticos de Nova York?"
+  },
+  {
+    "id": "124",
+    "intent": "outros",
+    "utterance": "Onde posso comprar um bom vinho?"
+  },
+  {
+    "id": "125",
+    "intent": "outros",
+    "utterance": "Quais são os efeitos colaterais da vacina contra a gripe?"
+  },
+  {
+    "id": "126",
+    "intent": "outros",
+    "utterance": "Como faço para aprender a cozinhar?"
+  },
+  {
+    "id": "127",
+    "intent": "outros",
+    "utterance": "Quais são os melhores exercícios para perder peso?"
+  },
+  {
+    "id": "128",
+    "intent": "outros",
+    "utterance": "Onde posso encontrar uma academia perto de mim?"
+  },
+  {
+    "id": "129",
+    "intent": "outros",
+    "utterance": "Como faço para organizar meu tempo?"
+  },
+  {
+    "id": "130",
+    "intent": "outros",
+    "utterance": "Quais são os melhores aplicativos para produtividade?"
+  },
+  {
+    "id": "131",
+    "intent": "outros",
+    "utterance": "Onde posso encontrar um bom eletricista?"
+  },
+  {
+    "id": "132",
+    "intent": "outros",
+    "utterance": "Quais são as melhores dicas para economizar dinheiro?"
+  },
+  {
+    "id": "133",
+    "intent": "outros",
+    "utterance": "Como faço para limpar meu computador de vírus?"
+  },
+  {
+    "id": "134",
+    "intent": "outros",
+    "utterance": "Quais são os sintomas de uma alergia?"
+  },
+  {
+    "id": "135",
+    "intent": "outros",
+    "utterance": "Onde posso comprar roupas de inverno?"
+  },
+  {
+    "id": "136",
+    "intent": "outros",
+    "utterance": "Quais são as vantagens de usar energia solar?"
+  },
+  {
+    "id": "137",
+    "intent": "outros",
+    "utterance": "Como faço para decorar minha casa com pouco dinheiro?"
+  },
+  {
+    "id": "138",
+    "intent": "outros",
+    "utterance": "Quais são as melhores marcas de smartphones?"
+  },
+  {
+    "id": "139",
+    "intent": "outros",
+    "utterance": "Onde posso comprar livros online?"
+  },
+  {
+    "id": "140",
+    "intent": "outros",
+    "utterance": "Quais são os benefícios da meditação?"
+  },
+  {
+    "id": "141",
+    "intent": "outros",
+    "utterance": "Como faço para criar um currículo?"
+  },
+  {
+    "id": "142",
+    "intent": "outros",
+    "utterance": "Quais são os melhores métodos de estudo?"
+  },
+  {
+    "id": "143",
+    "intent": "outros",
+    "utterance": "Onde posso encontrar um curso de programação?"
+  },
+  {
+    "id": "144",
+    "intent": "outros",
+    "utterance": "Quais são as melhores práticas de segurança na internet?"
+  },
+  {
+    "id": "145",
+    "intent": "outros",
+    "utterance": "Como faço para pintar as paredes da minha casa?"
+  },
+  {
+    "id": "146",
+    "intent": "outros",
+    "utterance": "Quais são os melhores jogos de tabuleiro?"
+  },
+  {
+    "id": "147",
+    "intent": "outros",
+    "utterance": "Onde posso encontrar uma clínica de fisioterapia?"
+  },
+  {
+    "id": "148",
+    "intent": "outros",
+    "utterance": "Quais são as tendências tecnológicas mais recentes?"
+  },
+  {
+    "id": "149",
+    "intent": "outros",
+    "utterance": "Como faço para criar um site?"
+  },
+  {
+    "id": "150",
+    "intent": "outros",
+    "utterance": "Quais são as melhores ferramentas de marketing digital?"
+  },
+  {
+    "id": "151",
+    "intent": "outros",
+    "utterance": "Onde posso encontrar um serviço de conserto de eletrodomésticos?"
+  },
+  {
+    "id": "152",
+    "intent": "outros",
+    "utterance": "Quais são os melhores destinos para férias em família?"
+  },
+  {
+    "id": "153",
+    "intent": "outros",
+    "utterance": "Como faço para configurar uma rede Wi-Fi?"
+  },
+  {
+    "id": "154",
+    "intent": "outros",
+    "utterance": "Quais são as principais causas do aquecimento global?"
+  },
+  {
+    "id": "155",
+    "intent": "outros",
+    "utterance": "Onde posso encontrar receitas de refeições vegetarianas?"
+  },
+  {
+    "id": "156",
+    "intent": "outros",
+    "utterance": "Quais são os melhores aplicativos de finanças pessoais?"
+  },
+  {
+    "id": "157",
+    "intent": "outros",
+    "utterance": "Como faço para aprender a programar em Python?"
+  },
+  {
+    "id": "158",
+    "intent": "outros",
+    "utterance": "Quais são as melhores opções de investimento para iniciantes?"
+  },
+  {
+    "id": "159",
+    "intent": "outros",
+    "utterance": "Onde posso comprar produtos orgânicos?"
+  },
+  {
+    "id": "160",
+    "intent": "outros",
+    "utterance": "Quais são as melhores estratégias para marketing nas redes sociais?"
+  },
+  {
+    "id": "161",
+    "intent": "outros",
+    "utterance": "Como faço para escolher um plano de saúde?"
+  },
+  {
+    "id": "162",
+    "intent": "outros",
+    "utterance": "Quais são os sintomas de COVID-19?"
+  },
+  {
+    "id": "163",
+    "intent": "outros",
+    "utterance": "Onde posso aprender sobre inteligência artificial?"
+  },
+  {
+    "id": "164",
+    "intent": "outros",
+    "utterance": "Quais são as melhores práticas de gestão de tempo?"
+  },
+  {
+    "id": "165",
+    "intent": "outros",
+    "utterance": "Como faço para instalar uma câmera de segurança em casa?"
+  },
+  {
+    "id": "166",
+    "intent": "outros",
+    "utterance": "Quais são os melhores livros de ficção científica?"
+  },
+  {
+    "id": "167",
+    "intent": "outros",
+    "utterance": "Onde posso encontrar um curso de primeiros socorros?"
+  },
+  {
+    "id": "168",
+    "intent": "outros",
+    "utterance": "Quais são as melhores práticas para melhorar a qualidade do sono?"
+  },
+  {
+    "id": "169",
+    "intent": "outros",
+    "utterance": "Como faço para aprender a cozinhar pratos internacionais?"
+  },
+  {
+    "id": "170",
+    "intent": "outros",
+    "utterance": "Quais são os benefícios da leitura diária?"
+  },
+  {
+    "id": "171",
+    "intent": "outros",
+    "utterance": "Onde posso encontrar um bom mecânico de automóveis?"
+  },
+  {
+    "id": "172",
+    "intent": "outros",
+    "utterance": "Quais são as melhores práticas para reduzir o consumo de plástico?"
+  },
+  {
+    "id": "173",
+    "intent": "outros",
+    "utterance": "Como faço para organizar uma viagem internacional?"
+  },
+  {
+    "id": "174",
+    "intent": "outros",
+    "utterance": "Quais são os melhores aplicativos para aprender idiomas?"
+  },
+  {
+    "id": "175",
+    "intent": "outros",
+    "utterance": "Onde posso encontrar uma boa escola de dança?"
+  },
+  {
+    "id": "176",
+    "intent": "outros",
+    "utterance": "Quais são as melhores dicas para uma alimentação saudável?"
+  },
+  {
+    "id": "177",
+    "intent": "outros",
+    "utterance": "Como faço para configurar um novo smartphone?"
+  },
+  {
+    "id": "178",
+    "intent": "outros",
+    "utterance": "Quais são os melhores sites de notícias internacionais?"
+  },
+  {
+    "id": "179",
+    "intent": "outros",
+    "utterance": "Onde posso comprar equipamentos esportivos?"
+  },
+  {
+    "id": "180",
+    "intent": "outros",
+    "utterance": "Quais são as melhores práticas de networking profissional?"
+  },
+  {
+    "id": "181",
+    "intent": "outros",
+    "utterance": "Como faço para aprender a tocar piano?"
+  },
+  {
+    "id": "182",
+    "intent": "outros",
+    "utterance": "Quais são os benefícios de praticar yoga?"
+  },
+  {
+    "id": "183",
+    "intent": "outros",
+    "utterance": "Onde posso encontrar produtos de beleza naturais?"
+  },
+  {
+    "id": "184",
+    "intent": "outros",
+    "utterance": "Quais são os melhores podcasts sobre tecnologia?"
+  },
+  {
+    "id": "185",
+    "intent": "outros",
+    "utterance": "Como faço para escolher um bom vinho?"
+  },
+  {
+    "id": "186",
+    "intent": "outros",
+    "utterance": "Quais são as melhores dicas para cuidar da pele?"
+  },
+  {
+    "id": "187",
+    "intent": "outros",
+    "utterance": "Onde posso encontrar receitas de sobremesas veganas?"
+  },
+  {
+    "id": "188",
+    "intent": "outros",
+    "utterance": "Quais são as melhores práticas para evitar o estresse?"
+  },
+  {
+    "id": "189",
+    "intent": "outros",
+    "utterance": "Como faço para montar um computador?"
+  },
+  {
+    "id": "190",
+    "intent": "outros",
+    "utterance": "Quais são os melhores lugares para mergulho no Brasil?"
+  },
+  {
+    "id": "191",
+    "intent": "outros",
+    "utterance": "Onde posso encontrar uma loja de eletrônicos confiável?"
+  },
+  {
+    "id": "192",
+    "intent": "outros",
+    "utterance": "Quais são os benefícios de uma dieta com baixo teor de carboidratos?"
+  },
+  {
+    "id": "193",
+    "intent": "outros",
+    "utterance": "Como faço para instalar um ar-condicionado em casa?"
+  },
+  {
+    "id": "194",
+    "intent": "outros",
+    "utterance": "Quais são as melhores práticas para melhorar a comunicação no trabalho?"
+  },
+  {
+    "id": "195",
+    "intent": "outros",
+    "utterance": "Onde posso encontrar um bom hotel em São Paulo?"
+  },
+  {
+    "id": "196",
+    "intent": "outros",
+    "utterance": "Quais são os melhores destinos para uma lua de mel?"
+  },
+  {
+    "id": "197",
+    "intent": "outros",
+    "utterance": "Como faço para criar um canal no YouTube?"
+  },
+  {
+    "id": "198",
+    "intent": "outros",
+    "utterance": "Quais são as melhores estratégias de marketing para pequenas empresas?"
+  },
+  {
+    "id": "199",
+    "intent": "outros",
+    "utterance": "Onde posso encontrar um bom veterinário para meu cachorro?"
+  },
+  {
+    "id": "200",
+    "intent": "outros",
+    "utterance": "Quais são as melhores práticas de segurança alimentar?"
+  }
+]
